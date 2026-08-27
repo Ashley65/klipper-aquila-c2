@@ -3,7 +3,7 @@
 
 This repository contains the Klipper configuration files for my Voxelab Aquila C2. It serves as a backup and a reference for running Klipper on an upgraded Creality V4/F407 board.
 
-## 🛠️ Hardware Specifications
+## Hardware Specifications
 
 * **Printer Model:** Voxelab Aquila C2
 * **Mainboard:** Creality V4 / F407
